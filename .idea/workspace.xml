@@ -11,8 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa9502d8-dcbb-4fb5-9c06-485acfd71dc7" name="Default Changelist" comment="nộp assigntment 1">
-      <change afterPath="$PROJECT_DIR$/assigntmet1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index1.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +62,8 @@
       <workItem from="1602165439649" duration="398000" />
       <workItem from="1602165849854" duration="776000" />
       <workItem from="1602166635928" duration="1716000" />
-      <workItem from="1602168363480" duration="330000" />
+      <workItem from="1602168363480" duration="509000" />
+      <workItem from="1602168882035" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="demo up code">
       <created>1602131181253</created>
@@ -73,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602131181253</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="nộp assigntment 1">
+      <created>1602168715207</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602168715207</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,7 +99,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="demo up code" />
-    <option name="LAST_COMMIT_MESSAGE" value="demo up code" />
+    <MESSAGE value="nộp assigntment 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="nộp assigntment 1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="536" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602168075016">
