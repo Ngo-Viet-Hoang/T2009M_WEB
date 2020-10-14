@@ -11,6 +11,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa9502d8-dcbb-4fb5-9c06-485acfd71dc7" name="Default Changelist" comment="nộp assigntment 1">
+      <change afterPath="$PROJECT_DIR$/Lab2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabS3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assigntment2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/LabS3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/assignmet2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/boxmodel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/lab2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/13118hinh-anh-phong-canh-ho-nuoc-duoi-chan-nui-tuyet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/LabS3.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/LabS3.3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/LabS3.4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/Nghenhinvietnam_vn_Trang_mau_2_YFQQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/labS3.2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/photo-1-1530867508738756683186.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/tải xuống (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/tải xuống.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sesson2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sesson2_demo_css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sesson3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +42,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -38,6 +59,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -68,7 +90,20 @@
       <workItem from="1602217406198" duration="389000" />
       <workItem from="1602250523442" duration="1079000" />
       <workItem from="1602293057302" duration="934000" />
-      <workItem from="1602294045203" duration="345000" />
+      <workItem from="1602294045203" duration="725000" />
+      <workItem from="1602294980738" duration="11040000" />
+      <workItem from="1602319405601" duration="1535000" />
+      <workItem from="1602326824109" duration="1121000" />
+      <workItem from="1602419262511" duration="2280000" />
+      <workItem from="1602468607334" duration="2061000" />
+      <workItem from="1602473592683" duration="1649000" />
+      <workItem from="1602540610640" duration="896000" />
+      <workItem from="1602552382253" duration="13735000" />
+      <workItem from="1602590677976" duration="1196000" />
+      <workItem from="1602597711782" duration="3312000" />
+      <workItem from="1602661567933" duration="4174000" />
+      <workItem from="1602669260863" duration="958000" />
+      <workItem from="1602681283318" duration="6101000" />
     </task>
     <task id="LOCAL-00001" summary="demo up code">
       <created>1602131181253</created>
@@ -105,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602293809198</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="nộp assigntment 1">
+      <created>1602294557672</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602294557672</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,14 +175,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="536" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602168075016" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602590766931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602590766931" />
     <state x="147" y="65" key="DiffContextDialog" timestamp="1602293847093">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="147" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602293847093" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602293871249">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602294563101">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602293871249" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602294563101" />
     <state x="431" y="145" key="search.everywhere.popup" timestamp="1602126208223">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
