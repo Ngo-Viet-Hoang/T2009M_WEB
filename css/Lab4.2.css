@@ -1,0 +1,44 @@
+body{
+    background: #f2f2f2;
+    float:left;
+}
+main {
+    background: #f2f2f2;
+}
+.header1{
+    width: 1235px;
+    background: #fff;
+    padding: 1px;
+    margin-bottom: 40px;
+}
+.header2{
+    width: 250px;
+    text-align: center;
+    padding: 35px;
+}
+.header3{
+    background: black;
+    color: white;
+    height: 45px;
+    padding: 1px;
+}
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: DodgerBlue;
+}
+.flex-container {
+    background-color: #f2f2f2;
+    width: 50px;
+    margin: -35px;
+    text-align: center;
+    line-height: 15px;
+    font-size: 15px;
+}
+.anh1{
+    width: 250px;
+    height: 280px;
+}
+.mauanh{
+    background: white;
+}
