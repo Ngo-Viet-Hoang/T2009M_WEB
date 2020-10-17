@@ -1,0 +1,28 @@
+
+body{
+    background-color: #f2f2f2;
+    background-image: url("../imgs/tải xuống.jpg");
+    background-repeat: no-repeat;/*lam cho anh co lap lai hay ko*/
+    background-size: cover ;/*keo ra anh full man hinh*/
+}
+h1{
+    color: #608812;/*0-   rgb(255,255,0);/*0-255*/255 --00--FF #ffffff*/
+    font-size: 20px;
+    line-height:60px;
+    text-align: center;
+}
+p{
+    color:#232323;
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: "SansSerif";
+    font-weight: bold;/* thi light normal medium semi-bold bold extra-bold black*/
+    text-align: justify;/*left center right justify*/
+    text-decoration: none;/*underline line-throught overline none*/
+    text-transform: uppercase;/* uppercase lowercase  capitalize none*/
+    background-color:orange;
+}
+a{
+    text-decoration: none;
+    color: red;
+}

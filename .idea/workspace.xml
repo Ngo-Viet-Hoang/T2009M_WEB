@@ -10,27 +10,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa9502d8-dcbb-4fb5-9c06-485acfd71dc7" name="Default Changelist" comment="nộp Lab S3">
+    <list default="true" id="aa9502d8-dcbb-4fb5-9c06-485acfd71dc7" name="Default Changelist" comment="Nộp Lab S4">
       <change afterPath="$PROJECT_DIR$/Lab2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4.2.htlm.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LabS4.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/assigntment2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/Lab4.2.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/css/LabS4.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/css/app.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/css/assignmet2.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/css/boxmodel.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/css/boxmodel2.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/css/lab2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/LabS4.2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/LabS4.4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/LabS4.5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/LabS4.7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/LabS4.8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/LabS4.9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/Labs4.1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/Labs4.3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/Labs4.6.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/Nghenhinvietnam_vn_Trang_mau_2_YFQQ.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/tải xuống (1).jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/tải xuống.jpg" afterDir="false" />
@@ -38,7 +27,6 @@
       <change afterPath="$PROJECT_DIR$/sesson2_demo_css.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sesson3.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sesson4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +106,7 @@
       <workItem from="1602769856521" duration="3417000" />
       <workItem from="1602838436855" duration="2560000" />
       <workItem from="1602857471982" duration="2147000" />
-      <workItem from="1602896041935" duration="1787000" />
+      <workItem from="1602896041935" duration="2094000" />
     </task>
     <task id="LOCAL-00001" summary="demo up code">
       <created>1602131181253</created>
@@ -176,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602725894126</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Nộp Lab S4">
+      <created>1602898002116</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602898002116</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +193,8 @@
     <MESSAGE value="demo up code" />
     <MESSAGE value="nộp assigntment 1" />
     <MESSAGE value="nộp Lab S3" />
-    <option name="LAST_COMMIT_MESSAGE" value="nộp Lab S3" />
+    <MESSAGE value="Nộp Lab S4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nộp Lab S4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602771079579">

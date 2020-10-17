@@ -1,0 +1,59 @@
+*{
+
+}
+body{
+    background-color: #f2f2f2;
+    font-size: 14px;
+    line-height: 1.25;
+    font-weight: normal; /*100-thin 300-light  400-nomal 500-medium 600- semi-bold 700-bold 800-extra-bold 900-back*/
+    font-family: 'Roboto', sans-serif;
+    color: #232323;
+
+}
+div{
+    width: 350px;/*chieu rong cua khoi*/
+    height: 400px;
+    background-color: #ffffff;
+    /*border:10px solid #333333;!* solid dotted dashed!*/
+    /*border-top: 1px;*/
+    /*border-right:10px solid #333333;*/
+    /*border-bottom: 10px solid #333333;*/
+    /*border-left:10px solid #333333;*/
+    box-shadow: 0 0 5px #aaaaaa;
+    border-radius: 6px;
+    margin: 15px 20px 25px 30px;
+    /*
+    margin-top:15px;
+    margin-ringt:20px;
+    margin-bottom:25px;
+    margin-left:30px;
+     */
+    padding: 30px;
+    /*
+    padding-top:15px;
+    padding-right:15px;
+    padding- bottom 15px;
+    padding-left:15px;
+         */
+    box-sizing: border-box;
+    text-align: center;
+    float:left;/*left right none*/
+}
+img{
+    float: left;
+    width: 100%;
+    height: auto;
+}
+div img{
+    width: 300px;
+    float: none;
+}
+#sp{
+    transition: all 3000ms;
+}
+#sp:hover{
+    background-color: orange;
+    transform: rotate(360deg);
+    /*transform: translate(100px,-200px);*/
+    /*transgorm: scale(1.5);8*/
+}
