@@ -11,22 +11,102 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa9502d8-dcbb-4fb5-9c06-485acfd71dc7" name="Default Changelist" comment="Nộp Lab S4">
-      <change afterPath="$PROJECT_DIR$/Lab2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabS4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assigntment2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/LabS4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/assignmet2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/boxmodel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/boxmodel2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/lab2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/Nghenhinvietnam_vn_Trang_mau_2_YFQQ.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/tải xuống (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/tải xuống.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesson2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesson2_demo_css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesson3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesson4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoMagamenu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabS13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabS5.htlm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs13.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs7_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesson10_JS_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesson12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesson6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesson7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesson7_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesson8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baithi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/Lab7_1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/LabS5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/Labs13.1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/Labs7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/Sesson 11.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/Sesson6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/baithi.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/demobootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/duan.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/labs12.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/luyentap1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/sesson8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/ss12.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/thamkhao.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/duan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/126486021_424292488586198_9151889177647587798_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/1d09c5f8a51c8fd692b5ad4b8dd2fde9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/LabS7.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/star-off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/star-on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/star1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/star2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/demoapi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/grid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/labs13.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/thamkhao.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/css/brands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/css/brands.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/css/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/css/regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/css/regular.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/css/solid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/css/solid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/css/svg-with-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/css/svg-with-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/css/v4-shims.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/css/v4-shims.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.1/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luyentap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sesson10_JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sesson10_layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sesson11_JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sesson9_js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss12 _1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thamkhao.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4.2.htlm.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +116,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -61,6 +142,8 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ADMIN\WebstormProjects\T2009M_Web\imgs" />
+      <recent name="C:\Users\ADMIN\WebstormProjects\T2009M_Web\libs\fontawesome5.1" />
+      <recent name="C:\Users\ADMIN\WebstormProjects\T2009M_Web\Liv\bootstrap-3.4.1" />
       <recent name="C:\Users\ADMIN\WebstormProjects\T2009M_Web\media" />
       <recent name="C:\Users\ADMIN\WebstormProjects\T2009M_Web\imgs 1" />
     </key>
@@ -106,7 +189,74 @@
       <workItem from="1602769856521" duration="3417000" />
       <workItem from="1602838436855" duration="2560000" />
       <workItem from="1602857471982" duration="2147000" />
-      <workItem from="1602896041935" duration="2094000" />
+      <workItem from="1602896041935" duration="3861000" />
+      <workItem from="1602899917212" duration="10483000" />
+      <workItem from="1602973921036" duration="2830000" />
+      <workItem from="1602991368526" duration="658000" />
+      <workItem from="1603005309850" duration="1881000" />
+      <workItem from="1603020672960" duration="1305000" />
+      <workItem from="1603029922022" duration="915000" />
+      <workItem from="1603094431357" duration="5766000" />
+      <workItem from="1603116184739" duration="628000" />
+      <workItem from="1603157283628" duration="10721000" />
+      <workItem from="1603329503470" duration="11971000" />
+      <workItem from="1603351423820" duration="67000" />
+      <workItem from="1603368567315" duration="2706000" />
+      <workItem from="1603375967721" duration="3352000" />
+      <workItem from="1603502740758" duration="10269000" />
+      <workItem from="1603522349963" duration="4000" />
+      <workItem from="1603541691440" duration="711000" />
+      <workItem from="1603586964155" duration="5301000" />
+      <workItem from="1603612284529" duration="2983000" />
+      <workItem from="1603626389250" duration="2755000" />
+      <workItem from="1603702630901" duration="600000" />
+      <workItem from="1603719019569" duration="3627000" />
+      <workItem from="1603762483364" duration="12432000" />
+      <workItem from="1603865494022" duration="1317000" />
+      <workItem from="1603935151955" duration="7884000" />
+      <workItem from="1603944402884" duration="38000" />
+      <workItem from="1603944713704" duration="35000" />
+      <workItem from="1603944778182" duration="2153000" />
+      <workItem from="1603974535939" duration="8674000" />
+      <workItem from="1604107490618" duration="11304000" />
+      <workItem from="1604320014454" duration="665000" />
+      <workItem from="1604366677624" duration="12240000" />
+      <workItem from="1604500544371" duration="608000" />
+      <workItem from="1604538124935" duration="12307000" />
+      <workItem from="1604579023141" duration="591000" />
+      <workItem from="1604584034215" duration="3228000" />
+      <workItem from="1604670415041" duration="240000" />
+      <workItem from="1604797861819" duration="3261000" />
+      <workItem from="1604816996008" duration="9671000" />
+      <workItem from="1604836665219" duration="4352000" />
+      <workItem from="1604876423742" duration="1489000" />
+      <workItem from="1604878891706" duration="4949000" />
+      <workItem from="1604887959018" duration="2816000" />
+      <workItem from="1604893514262" duration="808000" />
+      <workItem from="1604906823765" duration="5024000" />
+      <workItem from="1604918251958" duration="1538000" />
+      <workItem from="1604924348238" duration="5421000" />
+      <workItem from="1604969345199" duration="1451000" />
+      <workItem from="1604972666990" duration="7712000" />
+      <workItem from="1605010671845" duration="7540000" />
+      <workItem from="1605048959872" duration="2104000" />
+      <workItem from="1605052851054" duration="5282000" />
+      <workItem from="1605064279977" duration="1581000" />
+      <workItem from="1605080237545" duration="2039000" />
+      <workItem from="1605084791749" duration="813000" />
+      <workItem from="1605089476483" duration="753000" />
+      <workItem from="1605094588858" duration="4855000" />
+      <workItem from="1605142424288" duration="3022000" />
+      <workItem from="1605154347496" duration="1895000" />
+      <workItem from="1605490770477" duration="156000" />
+      <workItem from="1605513871286" duration="7139000" />
+      <workItem from="1605527632066" duration="2383000" />
+      <workItem from="1605534184159" duration="3873000" />
+      <workItem from="1605574124873" duration="1661000" />
+      <workItem from="1605614684035" duration="1888000" />
+      <workItem from="1605758392748" duration="1191000" />
+      <workItem from="1606361192426" duration="1428000" />
+      <workItem from="1606362635419" duration="4121000" />
     </task>
     <task id="LOCAL-00001" summary="demo up code">
       <created>1602131181253</created>
@@ -171,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602898002116</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Nộp Lab S4">
+      <created>1602898228333</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602898228333</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,17 +366,25 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602590766931" />
-    <state x="147" y="65" key="DiffContextDialog" timestamp="1602293847093">
+    <state x="147" y="65" key="DiffContextDialog" timestamp="1602899606549">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="147" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602293847093" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602725899857">
+    <state x="147" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602899606549" />
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1606362877469">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602725899857" />
-    <state x="431" y="145" key="search.everywhere.popup" timestamp="1602126208223">
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606362877469" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602901755112">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602126208223" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602901755112" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1604373023622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1604373023622" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603772767226">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603772767226" />
   </component>
 </project>

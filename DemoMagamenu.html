@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mega menu</title>
+    <link rel="stylesheet" href="css/Sesson 11.css">
+</head>
+<body>
+<ul class="menu">
+    <li class="item">Home</li>/*text*/
+    <li class="item" onmouseenter="menu(this)" onmouseleave="closeMenu(this)">
+        <a class="anchor">Product</a>
+        <div class="submenu">/* an,hien*/
+            xin chao day la submenu
+        </div>
+    </li>
+    <li class="item" onmouseenter="menu(this)" onmouseleave="closeMenu(this)">
+        <a class="anchor">Category</a>
+        <div class="submenu">
+            xin chao day la submenu 2
+        </div>
+    </li>
+</ul>
+<script type="text/javascript">
+    function menu(e) {
+        // tra ve 1 mang cac doi tuong co class item
+        var items = document.getElementsByClassName("item");
+        for (var i=0;i<items.length;i++){
+            items[i].classList.remove("active");
+        }
+        e.classList.add("active");
+    }
+    function closeMenu(e) {
+        e.classList.remove("active");//xoa het
+    }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <title>Demo JS</title>
+</head>
+<body>
+<script type="text/javascript">// cac ngon ngu logic  nguoi dung se khong nhin thay, ngon ngu logic la ngon ngu dung dc if -else,..
+    //day la noi viet JS(javacrip), day la ngon ngu logic , cac lenh su li nhu trong c (vong lap, mang , bien..)chi ap dung trong nay
+    var x;// khai bao bien ko ton tai nguyen khi nao bien co gia tri thi moi cap o nho,khac voi ca(int x)
+    x=10;//x la mot so(number)
+      x="hello";//kieu du lieu co the thay doi(x la 1 string)
+    var y="world";
+    var z=x+y;// ra chuoi hello world
+    x=20;
+    Z=x+y// 20world
+    x=10+20;//30
+    z="xinchao"+"cac ban"+100;
+    y= 10+"haha"//10 haha->string
+    x='1"0'+20;// khac 1 va 0 la chuoi vi trong dau ngoac don con 20 la so,dung nhay don hoac nhay kep deu dc nhung mo bang cai nao ket thuc bang cai do
+    if(x>20 && x>10){
+        console.log("x > 20");
+    }else{
+        console.log("x < 20");
+    }
+    for(var i=0;i<10;i++){
+        console.log(i*i);
+    }
+    x=30;
+    while (x>20){
+        console.log(x);
+        x--;
+    }
+    do{
+        console.log(x*x);
+        x--;
+    }while (x>20);
+    var arr = [];// ko bat buoc phai cung kieu du lieu
+    arr[0]=15;
+    arr[1]="hello";
+    arr[3]=[20];
+    for(var i=0;i<10;i++){
+        arr[i]=i*i
+        //arr.push (i*i);//tu dong tang chi muc i
+    }
+    //arr[10]=17;
+    //arr[3] = 99;
+    //arr.push(17);
+    console.log(arr);
+    var s =56;
+    if(arr.includes(s)){//tim trong mang co chua gia tri cua s ko
+        console.log(s+"nam trong mang");
+    }else{
+        console.log(s+ " khong co trong mang");
+    }
+    var m = Max(arr);// trong js ko quan tam viet truoc hay sau chi can co viet la dc mien la trong pham vi cua scrip
+    console.log("Max: " +m);
+    function Max(ary){//viet ten la dc khi dung tu di ma biet
+        var max = ary[0];
+        for(var i=0;i<ary.length;i++ ){//ary.length dem so luong phan tu co trong mang
+            if(max < ary[i]);
+            max = ary[i];
+        }
+        return max;
+    }
+
+    function TinhTong(a,b){
+        var c= a+b;
+        return c;
+    }
+    Hello();
+    function Hello(){
+        console.log("Xinchao...");
+    }
+    //alert("Day la 1 canh bao..");
+     var kq = confirm("Ban co chac chan muon nop bai thi?");// tra ve true hoac false
+console.log(kq);
+if (kq){
+    //user chon OK
+}else{
+    //user chon cancel
+}
+ var st = prompt("Ban bao nhieu tuoi?");// tra ve string, nhap vao 20 kq tra ve la "20", prompt cho cho nguoi dung nhap gia tri ma nguoi ta muon dua vao
+console.log(st);// null la khong co gia tri khong co o nho, gia tri trong thi van co gia tri van co o nho;null neu nguoi dung an cancel
+st=st+10;//1810, bien doi cai st tu string thanh number
+st = parseInt(st);// chuyen"18" -> 18 chuyen tu kieu du lieu string sang number
+//"18" ->18
+//"18ab192" ->18
+//"1a8" ->1 neu gap ki tu thi no dung luon
+//"a18" -> NaN: not a number
+//isNaN(st) Kiem tra xem st co phai NaN hay ko, ktra xem lan chuyen hoa gia tri nay co bi loi hay ko
+if(!isNaN(st)){
+    console.log("Ban da"+st+" tuoi");
+}
+// yeu cau nguoi dung phai nhap vao 1 so tu 0->99
+// var e=prompt ("Nhap so");
+//console.log(e);
+//st= parseInt(e) ;
+//if(e>0 && e<=99){
+    ///console.log("%d",e)
+//}else{
+   // console.log("khong co gia tri")
+//}
+//if(!isNaN(st)) {
+   // console.log("Nhap so" + e);
+//}
+do {
+    var n = prompt("Nhap co so may man");
+    n = parseInt(n);
+}while (n < 0 || n > 99) isNaN(n);
+    var luckyNumber = parseInt(Math.random() * 100);// sinh ra mot so thuc ngau nhien tu0 ->100
+if(luckyNumber == n){
+    alert("Chuc mung ban da trung thuong 100 ty");
+}
+// nguoi dung nhap 5 so  ngau nhien tu 0 ->99 khac nhau  -> ktra xem co trung giai ko (1 2 3 4 5) (5  4 3 2 1 )
+ var lk =[];
+for(var i=0;i<5; i++) {
+    var x;
+    do {
+        x = parseInt(Math.random() * 100)
+    } while (!lk.includes(x));
+    lk.push(x);
+    // ra day se co 5 so ngau nhien khac nhau
+}
+var myNumber=[];
+for(var i=0;i<5;i++){
+    var x;
+    do{
+        x = prompt(" Nhap so muon chon:");
+        x=parseInt(x);
+    }while (myNumber.includes(x)|| x>99 || x<0);
+    myNumber .push (x)
+}
+// so sanh 2 bo gia tri
+var dem = 0;
+for(var i=0;i<5;i++ ){
+    
+}
+
+
+</script>
+
+</body>
+</html>

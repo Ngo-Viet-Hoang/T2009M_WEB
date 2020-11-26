@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Demo JS</title>
+</head>
+<body>
+<script type="text/javascript ">
+    var ob={};
+    ob.name= "Le Van Nam";//ob la doi tuong, name age .. la thuoc tinh cua doi tuong, name la thuoc tinh cua ob va co gtri la Nguyen Van An
+    ob.age= "19";
+    ob.birthday="22/11/1999";
+    ob.name="Nguyen Van An ";
+    //ob
+    var ob1={
+        hoten:"Nguyen Duy Anh",
+        tuoi: 29
+    }
+    //var ob1={} ->tuong duong
+    // ob1.hotem=".."
+    function canhbao(){
+        alert("Day la canh bao");
+    }
+    //canhbao();//thuc thi ham , co nghia la cho chay ham
+    //setTimeout(canhbao,3000);//3000 la 3000ms = 3s(cho 3000ms xong chay len canh bao ) co 2 ham dien ten ham, ham minh dinh khai bao,nap ten ham thuc thi vao tham so(c1)
+    setTimeout(function () {// do tre de thuc hien, chi chay dc 1 lan
+        alert("Day la canh bao");
+    },3000)// su dung ham an danh khai bao ham ko co ten(c2)
+    var abc = function () {
+        console.log("Xin chao...");
+    }
+    abc();// thuc thi ham, 1 cach khac de khai bao ham;abc la bien dc coi nhu 1 ham
+    var i=0;
+    var abc1 = () =>{// khai bao ham kieu ARROW FUCTION
+        console.log("Xin chao..." +i);
+        i++;
+    }
+    abc1();
+    var min= 10,sec =0;
+    function Timer() {// dem gio
+        console.log(min + ":" + sec);//10:0
+        sec--;
+        if (sec < 0) ;
+        {
+            sec = 59;
+            min--;
+        }
+        //khi ve 00:00 phai tim cach tat di
+        if (min < 0) {
+            clearInterval(stv);//xoa bien
+        }
+    }
+
+    var stv= setInterval(Timer,100) //cung la do tre thoi gian nhung no chay mai mai
+
+</script>
+
+
+</body>
+</html>

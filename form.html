@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo Form</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet"/>
+    <link rel="stylesheet" href="libs/bootstrap-3.4.1/css/bootstrap.css">
+    <link rel="stylesheet" href="css/demobootstrap.css">
+</head>
+<body>
+<section class="section">
+    <div class="container">
+        <div class="col-md-6">
+            <form method="post" action="#">
+                <input name="full_name" type="text" placeholder="Full Name.." required/><br/>
+                <input name="email_address" type="email" placeholder="Enter Email .." required/><br/>
+                <input name="pwd" type="password" placeholder="Enter Password .." required/><br/>
+                <input name="birthday" type="date" placeholder="Birthday .."/><br/>
+                <input name="my_color" type="color" placeholder="My Color.."/><br/>
+                <label><input name="gender" checked type="radio" value="nam"/>Nam</label>
+                <label><input name="gender" type="radio" value="nu"/>Nu</label>
+                <label><input name="gender" type="radio" value="khac"/>Khac</label>
+                <br/>
+                <label><input name="condition" checked type="checkbox"/>I'm ready!</label><br/>
+                <select name="city">
+                    <option value="1">Ha Noi</option>
+                    <option value="2">Sai Gon</option>
+                    <option value="ct">Can Tho</option>
+                </select>
+                <br/>
+                <textarea name="motabanthan" rows="5" cols="20" placeholder="Mo ta ban than"></textarea>
+                <br/>
+                <button type="submit">Submit</button>
+                <button type="button">Button</button>
+                <button type="reset">Reset</button>
+            </form>
+        </div>
+        <div class="col-md-6">
+            <form method="post" action="#">
+                <div class="form-group">
+                    <label>Full Name</label>
+                    <input type="text" name="fullname" placeholder="Full Name" class="form-control"/>
+                </div>
+                <div class="form-group">
+                    <label>Email</label>
+     `               <input type="email" name="email" placeholder="Email" class="form-control"/>
+                </div>
+                <div class="form-group">
+                    <label>Password</label>
+                    <input type="password" name="pwd" placeholder="Password" class="form-control"/>
+                </div>
+                <div class="radio">
+                    <label><input type="radio" name="gender" value="nam"/>Nam</label>
+                    <label><input type="radio" name="gender" value="nam"/>Nu </label>
+                    <label><input type="radio" name="gender" value="khac"/>khac </label>
+                </div>
+                <div class="form-group">
+                    <label>City</label>
+                    <select class="form-control" name="city2">
+                        <option value="hn">Ha Noi</option>
+                        <option value="hn">Ha Noi</option>
+                        <option value="hn">Ha Noi</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Tiểu sử bản thân</label>
+                    <textarea class="form-control" rows="10" cols="20" placeholder="Mo ta"></textarea>
+                </div>
+                <div class="form-group">
+                    <button class="btn btn-default" type="submit">Submit</button>
+                    <button class="btn btn-primary" type="submit">Submit</button>
+                    <button class="btn btn-danger" type="submit">Submit</button>
+                    <button class="btn btn-warning" type="submit">Submit</button>
+                    <button class="btn btn-success" type="submit">Submit</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</section>
+</body>
+</html>

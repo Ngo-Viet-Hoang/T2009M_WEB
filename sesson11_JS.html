@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sesson 11</title>
+    <link rel="stylesheet" href="css/Sesson 11.css">
+</head>
+<body>
+<div id="box1" onclick="show1()"  onmouseenter="show1()"
+onmouseleave="show2" ondblclick="show1 ()" oncopy="show2()" ;
+oncut ="show1();" onpaste="show1();">
+
+</div>
+<input id="ip1" type ="text" placeholder="Nhap 1 gia tri "
+onchange="show3()"/>
+<select name="city" onchange="show4()" >
+    <option value="1">value 1</option>
+    <option vocab="2">value 2</option>
+</select>
+<button type="button" onclick="popupShow()">Popup Show</button>
+<div id="bg-fade"></div>
+<div id="popup">
+    <button type="button" onclick="popupHide()">Close</button>
+    <h1>Day la popup</h1>
+</div>
+<ul id="danhsach">
+    <li>Lê Văn Nam</li>
+    <li>Nguyễn Nguyệt Nga</li>
+</ul>
+<button type="button" onclick="LoadMore()">Tải thêm</button>
+<script type="text/javascript ">
+    function LoadMore() {
+        var ds = document.getElementById("danhsach");
+        var s = "<li>Đỗ Duy Nam</li>";// lay du lieu tu csdl ve
+        ds.innerHTML = ds.innerHTML+s;
+    }
+    function popupShow() {
+        var bf = document.getElementById("bg-fade");
+        var pp = document.getElementById("popup");
+        bf.style.display = "block";
+        pp.style.display = "block";
+    }
+    function popupHide() {
+        var bf = document.getElementById("bg-fade");
+        var pp = document.getElementById("popup");
+        bf.style.display = "none";
+        pp.style.display = "none";
+    }
+
+    function show4(){
+        console.log("change select");
+    }
+    function show3(){
+        var ip =document.getElementById("ip1");//onchange khi nhap vao gia tri an enter vao ra gia tri va no se ko thay doi gia tri khi co gtri moi(dung trong select de thay doi gtri khi chuyem gtri thanh gtri khac)
+        var v=ip.value;//value la gia tri nhap tu input//onkeyup khi tha nut
+        console.log(v);//onkeypress khi nguoi dung go chu(khi onkeydown khi nhan phim xuong,xoa .. nhan 1 phim bat ki deu phat ra, keypress la khi nhap 1 gia tri)
+    }
+    var c=0;//onmauseleave khi nguoi dung dau chuot ra pham vi cua pha ntu,//ondclick khi nguoi dung an 2 lan, it dung
+    function show1() {//onclick la ham se duoc thuc thi khi an vao cho cua phan tu,//onmouseenter khi nguoi dung dua chuot vao cho cua pha ntu
+        c++;//oncopy khi nguoi dung copy
+        var b =document.getElementById("box1")
+        b.innerText =c;//onkeydown khi nguoi nhan phim xuong trong o input ay
+    }
+    function show2(){
+        c--;
+        var b= document.getElementById ("box1 ");
+        b.innerText = c;
+    }
+</script>
+
+</body>
+</html>

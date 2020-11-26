@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>form</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,300;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="libs/bootstrap-3.4.1/css/bootstrap.css">
+    <link rel="stylesheet" href="css/demobootstrap.css">
+</head>
+<body>
+<section class="section ">
+    <div class="container " >
+        <label method="get " action="#" >
+            <input name="full_name" type="text " placeholder="Full Name.." required/> /* placeholder ten nhan, tu mat khi minh go */ /* co them require la  nguoi dung bat buoc phai dien */
+            <input name="email_address" type="email " placeholder="Enter Email.."/>/*giong lenh tren nhung khi day len phai them @  ko co se bao loi */<br/>
+            <input name="pwd" type="password " placeholder="Enter password.."/>/* mat khau muon tim Mk an ktra chon vao cho nay an chuyen thanh text*/<br/>
+            <input name="birthday" type="date " placeholder="Birthday.."/>/*ko phai dien co the chon*/<br/>
+            <input name="my_color" type="color " placeholder="My color.."/><br/> /*giong birthday*/ <br/>
+                   </label> <input name="gender"checked  type="radio "value="nam"/>Nam</label> /* cai trong value la cai gui len may chu con phan ngoai la cho nguoi dung xem rieng radio phai co gtri  la cai dung de chon 1 khi chon thi ko tat dc chi reset kai trang lam lai tu dau*/
+            <label > <input name="gender" type="radio "value="Nu"/>Nu</label> /*checked la muon mac dinh de dam bao du lieu minh ko bi sai da ke ca reset van la nhu the*/
+            <label ><input name="gender" type="radio "value="khac"/>khac<</label>/* nhan thi nhan dc ca hai ko chi rieng o tron*/
+            <label><input name="condition" checked type="checkbox "/>I'm ready!<   </label>
+            <select name="city"> /* la bo gom co name o tren cac option la cac gia tri de lua chon */
+                <option value="hh" >ha Noi<</option>/* value la cai may chu nhan dc cai ma may chu quan tam, vi du ma hoc sinh; con cai ben ngoai minh chon ko quan trong voi may chu*/
+                <option value="sg" >Sai Gon<</option>/* dung select de lam ngan giao dien*/
+                <option value="ct">Can Tho<</option>
+            </select>
+            <textarea name="motabanthan" placeholder="Mo ta ban than" ></textarea>/* keo tha dc */
+        <br/>
+        <button type="submit ">Submit</button> /*gui thong tin nut quan trong nhat*/
+        <button type="button ">Button</button>/* thao tac ngam*/
+        <button type="reset " >Reset</button>/* han che dung*/
+
+        </form>
+    </div>
+</section>
+
+</body>
+</html>

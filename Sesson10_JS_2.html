@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JS DOM </title>
+</head>
+<body>
+<h1 id="head1">Hello </h1>
+<img id="im1" src="imgs/1d09c5f8a51c8fd692b5ad4b8dd2fde9.jpg" />
+
+<script type="text/javascript ">
+    var h1Style={
+        color:"red",
+        fontSize:"40px",
+        backgroundColor:"orange"
+    }
+    function changeText(){
+        //chuyen cai chu Hello -> Good morning
+        var he1 = document.getElementById("head1");// tao doi tuong,goi ten doi tuong co id la head1
+        he1.innerText = "Good morning";//thay doi noi dung chu
+        he1.style.color = "red";
+        he1.style.fontSize = "40px";//font-size -> fontSize
+    }
+    setTimeout =(changeText,3000);
+    function AnHienAnh(){
+        var im= document.getElementById("im1");
+        im.src="imgs/Nghenhinvietnam_vn_Trang_mau_2_YFQQ.jpg"
+
+        if(im.style.display =="none"){
+            im.style.display ="block";
+        }else{
+            im.style.display="none";
+        }
+    }
+    setInterval(AnHienAnh,2000);
+    function Naplogo(){
+        var lg = document.getElementById("logo");
+        var imgs1 ="<img  src=\"imgs/1d09c5f8a51c8fd692b5ad4b8dd2fde9.jpg\" />";
+        lg.innerHTML = img1;//cau truc html dc coi la thuoc tinh
+    }
+    setTimeout(Naplogo,1000);
+
+    </script>
+
+
+</body>
+</html>
