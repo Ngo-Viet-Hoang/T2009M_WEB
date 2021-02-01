@@ -11,12 +11,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa9502d8-dcbb-4fb5-9c06-485acfd71dc7" name="Default Changelist" comment="PRATICAL">
+      <change afterPath="$PROJECT_DIR$/BestSeller.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sunglasses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/Bestseller.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/Sunglasses.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/petite.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/shopallglasses.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/womanglasses.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petite.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopallglasses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/womanglasses.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LabS3.html" beforeDir="false" afterPath="$PROJECT_DIR$/LabS3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assigntmet1.html" beforeDir="false" afterPath="$PROJECT_DIR$/assigntmet1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/LabS5.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/LabS5.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/baithi.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/baithi.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/luyentap1.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +49,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../t2009m_reactjs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -242,6 +247,7 @@
       <workItem from="1611471170624" duration="2822000" />
       <workItem from="1611490187095" duration="1355000" />
       <workItem from="1611535897485" duration="1876000" />
+      <workItem from="1612184815098" duration="944000" />
     </task>
     <task id="LOCAL-00001" summary="demo up code">
       <created>1602131181253</created>
